@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Example threat",
+    "owner": "Aastha Shrivastava"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "example diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
